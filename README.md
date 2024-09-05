@@ -1,5 +1,7 @@
 # React + DaisyUI + AnimationOnScroll Template
 
+---
+
 This template provides a minimal setup to get React working in Vite alongside TailwindCSS, DaisyUI and Animate On Scroll with HMR and some ESLint rules.
 
 ### File Structure
@@ -94,3 +96,12 @@ export default tseslint.config({
   },
 });
 ```
+
+### Why use this template?
+
+- I do not like to use create-react-app because it is too bloated and I do not need all the features it provides.
+- I like to have a minimal setup with the tools I need to get started quickly.
+- I like to have a clean and organized file structure.
+- This is my personal preference and you may not like it. That's okay.
+
+---
